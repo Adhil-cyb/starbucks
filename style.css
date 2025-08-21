@@ -354,6 +354,10 @@ button:hover{
 .text14:hover{
     text-decoration: underline;
 }
+body{
+    overflow-x: hidden;
+}
+
 
 
 
