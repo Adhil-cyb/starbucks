@@ -245,6 +245,7 @@ color: rgb(255, 255, 255);
 }
 body{
     margin: 0%;
+    overflow-x: hidden;
 }
 .outer-5{
     margin-top: 30px;
@@ -354,9 +355,7 @@ button:hover{
 .text14:hover{
     text-decoration: underline;
 }
-body{
-    overflow-x: hidden;
-}
+
 
 
 
